@@ -1,0 +1,10 @@
+# Kredensial database: jangan pernah di-upload
+includes/config.php
+
+# File sistem & editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.zip
